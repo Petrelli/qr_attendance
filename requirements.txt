@@ -1,0 +1,4 @@
+Flask==2.0.3
+Werkzeug==2.0.3
+qrcode[pil]==7.3.1
+Pillow==8.4.0
