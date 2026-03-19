@@ -142,7 +142,7 @@ ADMIN_TEMPLATE = """
         <input type="password" name="pin" placeholder="Enter teacher PIN" required>
         <button type="submit">Login</button>
       </form>
-      <p>The default PIN is <code>123456</code>. It is recommended to change it in <code>app.py</code>.</p>
+      <p>The default PIN is <code>1</code>. It is recommended to change it in <code>app.py</code>.</p>
     </div>
   {% else %}
     <div class="card">
